@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27112930/README.md)
 # Multi Exchange Crypto Monitor APK
 
 Bybit / OKX 선물 급등 후보를 모니터링하는 Android WebView 앱입니다.
